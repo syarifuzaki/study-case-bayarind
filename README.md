@@ -30,7 +30,7 @@ cd study-case-bayarind
 3. Install the dependencies:
 
 ```
-npm run dev
+npm run install
 ```
 
 4. Run the project:
